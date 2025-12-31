@@ -49,3 +49,10 @@ npm start
 
 The application will open at:
 http://localhost:3000
+## 📸 Screenshots
+
+![Task List](Task.jpeg)
+![Add Task](Add task.jpeg)
+![Update Task](Update task.jpeg)
+![Delete Task](Delete task.jpeg)
+
